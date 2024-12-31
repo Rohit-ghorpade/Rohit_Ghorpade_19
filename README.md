@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm **Rohit Ghorpade**, a passionate data science 
 ## 🛠️ Technical Skills  
 
 ### Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -32,11 +32,11 @@ Welcome to my GitHub profile! I'm **Rohit Ghorpade**, a passionate data science 
 
 ### Machine Learning  
 - Algorithms:  
-  - **Supervised**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM).  
+  - **Supervised**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, Gradient Boosting (XGBoost).  
   - **Unsupervised**: K-means Clustering, DBSCAN, PCA.  
-  - **Deep Learning**: ANN, CNN, RNN (including LSTM).  
+  - **Deep Learning**: ANN, CNN, RNN LSTM GRU BERT.  
 - Optimization: Gradient Descent, Adam Optimizer.  
-- Evaluation Metrics: Confusion Matrix, ROC-AUC, Precision-Recall Curves.
+- Evaluation Metrics: Confusion Matrix, ROC-AUC, Precision-Recall Curves.....
 
 ### AI & NLP  
 - Advanced AI tools: LangChain, RAG, Generative AI, Transformers.  
