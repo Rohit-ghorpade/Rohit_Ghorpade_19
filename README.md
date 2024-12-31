@@ -1,84 +1,98 @@
-# 🌟 Rohit Ghorpade - Data Science Enthusiast 🚀  
+# Rohit Ghorpade - Data Science Enthusiast 🚀  
 
-Welcome to my GitHub profile! I'm **Rohit Ghorpade**, a passionate data science enthusiast with expertise in machine learning, deep learning, and AI. I am always eager to explore new tools, technologies, and trends in the data science domain to create impactful solutions.
+Welcome to my GitHub profile! I'm **Rohit Ghorpade**, a passionate data science enthusiast, certified in Data Science with Generative AI in **PWskills**. My goal is to continuously improve my skills in data analysis, model building, and AI development, contributing to impactful projects and advancing in the field of Data Science.
 
 ---
 
-## 🌍 About Me  
+## 📖 About Me  
 
-- 🎓 **Education**: Second-year BCA student at **Aba Saheb Akade College**.  
-- 💻 **Career Aspiration**: To become a **Data Scientist** at **Microsoft**.  
-- 📍 **Preferred Location**: Pune, India.  
-- 🤝 **Networking**: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-ghorpade-32a139306/).  
-- 🕒 **Current Focus**: Mastering **NLP**, **Generative AI**, **LangChain**, and **RAG**.  
+- 🎓 **Education**:
+- **Second year Student**
+- **Bachelor of Computer Applications (BCA)** at **Aba Saheb Akade College** under **Savitribai Phule Pune University (SPPU)**.  
+- 💼 **Career Goal**: Transition from a **Data Analyst** to a **Data Scientist** in 3 years.  
+- 📍 **Preferred Job Location**: Pune, India.  
+- ✉️ **Contact**: [rohitghorpade098@gmail.com](mailto:rohitghorpade098@gmail.com).  
+- 🤝 **LinkedIn**: [Rohit Ghorpade](https://www.linkedin.com/in/rohit-ghorpade-32a139306/).  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-Proficient in Python, focusing on OOP, modules, and file handling.
+### Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Data Analysis & Visualization**  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0076A8?logo=matplotlib&logoColor=white&style=flat)  
+### Data Analysis  
+- Libraries: **NumPy**, **pandas**, **matplotlib**, **Seaborn**, **Plotly**.  
+- Visualization: Dynamic dashboards using **Streamlit**.  
 
-### **Machine Learning**  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
-- Expertise in Linear Regression, Logistic Regression, and clustering algorithms.  
+### Machine Learning  
+- Algorithms:  
+  - **Supervised**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM).  
+  - **Unsupervised**: K-means Clustering, DBSCAN, PCA.  
+  - **Deep Learning**: ANN, CNN, RNN (including LSTM).  
+- Optimization: Gradient Descent, Adam Optimizer.  
+- Evaluation Metrics: Confusion Matrix, ROC-AUC, Precision-Recall Curves.
 
-### **Deep Learning**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
-- Building models using ANN, CNN, RNN, Transformers, and Transfer Learning.  
-
-### **Additional Tools**  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  
-- Proficient in creating interactive applications and debugging Python projects.  
+### AI & NLP  
+- Advanced AI tools: LangChain, RAG, Generative AI, Transformers.  
+- NLP Techniques: Tokenization, Stemming, Lemmatization, Sentiment Analysis.  
 
 ---
 
 ## 📂 Projects  
 
-### **1. Sensor Fault Detection**  
-🔗 [GitHub Repository](#)  
-- **Description**: Designed a machine learning pipeline to detect sensor faults in real-time industrial systems.  
-- **Highlights**: Implemented robust module-based coding for better scalability and reusability.
+### 1. [SpamHamClassifier](https://github.com/Rohit-ghorpade/SpamHamClassifier)  
+- **Description**: A machine learning model for email classification (spam or ham).  
+- **Technologies**: Naive Bayes, NLP preprocessing, Streamlit.  
+- **Features**:  
+  - Processes email data for sentiment classification.  
+  - Interactive web interface with Streamlit.  
 
-### **2. Myntra Reviews Sentiment Analysis**  
-🔗 [GitHub Repository](#)  
-- **Description**: Built a web scraper to collect customer reviews from Myntra and performed sentiment analysis using NLP techniques.  
+### 2. [AI Chatbot](https://github.com/Rohit-ghorpade/AI_chatbot)  
+- **Description**: AI-powered chatbot for interactive queries.  
+- **Technologies**: Deep learning, NLP, RNNs.  
+- **Features**:  
+  - Context-aware responses using an NLP pipeline.  
+  - Scalable architecture.  
 
-### **3. Neural Network: A Simple Perceptron**  
-🔗 [GitHub Repository](#)  
-- **Description**: Developed a Colab notebook to implement and explain perceptrons for beginners in deep learning.  
+### 3. Sensor Fault Detection  
+- **Description**: Real-time fault detection for industrial sensors.  
+- **Technologies**: Modular coding, machine learning.  
+- **Features**:  
+  - Automated alerts for fault detection.  
+  - High accuracy and performance.
 
-### **4. LangChain & RAG Implementation**  
-🔗 [GitHub Repository](#)  
-- **Description**: Working on implementing LangChain for advanced Generative AI solutions.  
-
----
-
-## 📅 Current Focus  
-
-- **Topics**: Revising NLP concepts, Generative AI, LangChain, and RAG.  
-- **Learning Goal**: Achieve proficiency in Python-based AI and machine learning solutions.  
-- **Upcoming Event**: Preparing for a **Resume & Cover Letter Writing Session** on **2nd January 2025**.  
-
----
-
-## 🌐 Let's Connect  
-
-- 🌟 **LinkedIn**: [Rohit Ghorpade](https://www.linkedin.com/in/rohit-ghorpade-32a139306/)  
-- ✉️ **Email**: rohit.ghorpade@example.com  
-- 🐦 **Twitter**: [@RohitGhorpade](https://twitter.com/RohitGhorpade)  
+### 4. Myntra Review Scraper  
+- **Description**: Web scraper for analyzing customer sentiments.  
+- **Technologies**: Python, BeautifulSoup, Sentiment Analysis.  
+- **Features**:  
+  - Extracts and processes customer reviews.  
+  - Visualizes sentiment data.  
 
 ---
 
-## 🔥 Fun Fact  
+## 🏆 Certifications  
 
-> "I believe in continuous learning and building solutions that make a difference."  
+- **Certified**: Data Science With Generative AI **PW Skills**  
 
+
+## 🔍 Current Focus  
+
+1. Revising data science concepts: NLP, Generative AI, LangChain, and RAG Transfer Learning.
+2. Building expertise in LangChain and advanced deep learning architectures.  
+
+## 📧 Let's Connect  
+
+- ✉️ Email: [rohitghorpade098@gmail.com](mailto:rohitghorpade098@gmail.com)  
+- 🔗 LinkedIn: [Rohit Ghorpade](https://www.linkedin.com/in/rohit-ghorpade-32a139306/)  
+
+Feel free to connect with me on LinkedIn or explore my repositories for more exciting projects.
+
+
+
+---
